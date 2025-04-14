@@ -1,0 +1,53 @@
+PRINCIPAIS PPI:
+#233E98 – Azul Claro
+RGB: (35, 62, 152)
+#182961 – Azul Escuro
+RGB: (24, 41, 97)
+#ED2471 – Rosa Vibrante
+RGB: (237, 36, 113)
+#8BC349 – Verde Claro
+RGB: (139, 195, 73)
+#9E9E9E – Cinza
+RGB: (158, 158, 158)
+#088140 – Verde Escuro
+RGB: (8, 129, 64)
+#9525A5 – Roxo
+RGB: (149, 37, 165)
+#F8981D – Laranja
+RGB: (248, 152, 29)
+#FCBA13 – Amarelo
+RGB: (252, 186, 19)
+#FF5027 – Vermelho Alaranjado
+RGB: (255, 80, 39)
+#DB1F26 – Vermelho Escuro
+RGB: (219, 31, 38)
+#00A591 – Verde Água
+RGB: (0, 165, 145)
+#7F341C – Marron
+RGB: (127, 52, 28)
+
+SIEC - #2A55A4
+SIPE - #568D30
+SISU - #BE5108
+
+CORES VIBRANTES:
+Rosa Vibrante (#ED2471)
+Laranja (#F8981D)
+Amarelo (#FCBA13)
+Vermelho Alaranjado (#FF5027)
+Verde Claro (#8BC349)
+Verde Água (#00A591)
+
+Paleta Completa Baseada nas Cores Vibrantes:
+#ED2471 - Rosa Vibrante
+RGB: (237, 36, 113)
+#F8981D - Laranja
+RGB: (248, 152, 29)
+#FCBA13 - Amarelo
+RGB: (252, 186, 19)
+#FF5027 - Vermelho Alaranjado
+RGB: (255, 80, 39)
+#8BC349 - Verde Claro
+RGB: (139, 195, 73)
+#00A591 - Verde Água
+RGB: (0, 165, 145)
